@@ -1,0 +1,33 @@
+li {
+  list-style: none;
+  white-space: nowrap;
+  text-align: center;
+  margin-left: 30px;
+}
+.parent{
+  display: flex;
+  background-image: url(/home/ruben/Desktop/Vcard/images/156260_голубой_-свет_gallery.world_.jpg);
+}
+.naam {
+display: flex;
+flex-flow: column;
+align-items: center;
+}
+h3{
+  text-align: left;
+}
+
+h1{
+  margin-bottom: 100px;
+  margin-top: 30px;
+}
+p {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.fa-instagram {
+  font-size: 20px;
+}
+.fa-facebook {
+  font-size: 20px;
+}
